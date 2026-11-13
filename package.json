@@ -1,6 +1,6 @@
 {
     "name":  "hiero-desktop",
-    "version":  "0.2.1",
+    "version": "0.3.0",
     "private":  true,
     "description":  "Hiero desktop shell (Electron) that runs the Hiero backend and UI in its own window",
     "main":  "src/main.js",
